@@ -29,5 +29,19 @@ To start using deictic code commenting, we'll first conduct an activity that int
 - Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with using deictic comments.
 - Download the p5.js sketch files in the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
     - Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
+    
+### Wrapup
+
+Let's discuss the commenting activity and schedule meeting 2.
+
+## Meeting 2: Defining the problem, Starting to sketch
+
+### Defining the problem
+
+How can we use p5.js to simulate dot patterns and moire effects?
+
+- Refresh of [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
+
+- 
 
 
