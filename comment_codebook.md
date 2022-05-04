@@ -1,7 +1,7 @@
 # Comment Codebook
 Refer to this codebook for commenting your sketches.  The numbered list below contains each type of deictic comment, paired with its description.
 
-Each example below is wrapped around comment delimiters (`//`)
+Each example below is wrapped around comment delimiters (`//`) and contains `"abc"` as a placeholder for the actual text comment.  The term "referent" is used to describe the line(s) of code to which the comment refers.  
 
 1. `// @ln10  abc... //` references line 10
 2. `// <-   abc... //` placed on same line as referent; references preceding statement on same line 
