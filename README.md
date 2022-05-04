@@ -31,15 +31,20 @@ We'll start out by familiarizing ourselves with moire effects and random dot pat
 
 To start using deictic code commenting, we'll first conduct an activity that introduces deictic comments before implementing them in a pre-existing p5.js sketch.
 
-- Visit my [example p5.js sketch](https://editor.p5js.org/dmawer/sketches/7zXSlJxQb) with deictic comments
+- I'll walk you through my [example p5.js sketch](https://editor.p5js.org/dmawer/sketches/7zXSlJxQb) with deictic comments
 - Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with using deictic comments.
 - In Atom:
-    - Sign in to Teletype
+    - Sign in to Teletype with your GitHub account
     - Open a Portal
+        - Portal > Authenticate with GitHub account > Get Token
         - Packages > Teletype > Share Portal (or Join Portal)
-    - Open the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
+    - Browse for the Moire Project repository
         - File > Open Project Folder
+    - Open the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
             - Task: Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
+- In an internet browser:
+    - Run the vertex spinner sketch in a window
+        - File > Open File
     
 ### Wrapup
 
@@ -59,10 +64,18 @@ How can we use p5.js to simulate dot patterns and moire effects?
 
 Let's start collaboratively sketching in p5.js using deictic comments as needed.
 
-- Download the [p5.js library files](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/p5_files)
-- Open Atom
-- Start Teletype
-    - Portal > Authenticate with GitHub account > Get Token
+- In Atom:
+    - Sign in to Teletype with your GitHub account
+    - Open a Portal
+        - Portal > Authenticate with GitHub account > Get Token
+        - Packages > Teletype > Share Portal (or Join Portal)
+    - Browse for the p5.js files 
+        - File > Open Project Folder > find your `p5.js-Moire-Project` folder from Meeting 1
+        - Open the [p5.js library files](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/p5_files)
+        - The `sketch.js` file is yours to edit
+- In an internet browser:
+    - Run your sketch in a window
+        - File > Open File
 - Refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting
 
 ### Wrapup
