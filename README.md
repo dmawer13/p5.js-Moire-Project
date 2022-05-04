@@ -1,6 +1,6 @@
 # p5.js Moire Project
 
-This project involves the creation of a number of p5.js sketches that produce [moire effects](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern).
+This project involves the creation of a number of p5.js sketches that produce [moire effects](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern) and random dot patterns.
 
 ## System overview
 
@@ -26,6 +26,10 @@ We'll start out by familiarizing ourselves with moire effects and random dot pat
 - Install [Teletype package](https://teletype.atom.io/) in Atom:
     - Preferences > Install
     - Portal > Authenticate with GitHub account > Get Token
+- Install Atom HTML Preview
+    - Windows: File > Settings
+    - Mac: Atom > Preferences 
+        - Install > Type "atom-html-preview"
     
 ### Code Commenting Activity
 
@@ -34,17 +38,18 @@ To start using deictic code commenting, we'll first conduct an activity that int
 - I'll walk you through my [example p5.js sketch](https://editor.p5js.org/dmawer/sketches/7zXSlJxQb) with deictic comments
 - Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with using deictic comments.
 - In Atom:
-    - Sign in to Teletype with your GitHub account
     - Open a Portal
-        - Portal > Authenticate with GitHub account > Get Token
         - Packages > Teletype > Share Portal (or Join Portal)
     - Browse for the Moire Project repository
         - File > Open Project Folder
     - Open the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
-            - Task: Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
-- In an internet browser:
-    - Run the vertex spinner sketch in a window
-        - File > Open File
+         - Task: Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
+- To run your sketch
+    - In Atom:
+        - Open sketch index.html file
+        - control-Shift-H (with atom-html-preview installed)
+    - In an internet browser:
+        - File > Open File; browse for index.html file
     
 ### Wrapup
 
@@ -73,9 +78,12 @@ Let's start collaboratively sketching in p5.js using deictic comments as needed.
         - File > Open Project Folder > find your `p5.js-Moire-Project` folder from Meeting 1
         - Open the [p5.js library files](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/p5_files)
         - The `sketch.js` file is yours to edit
-- In an internet browser:
-    - Run your sketch in a window
-        - File > Open File
+- To run your sketch
+    - In Atom:
+        - Open sketch index.html file
+        - control-Shift-H (with atom-html-preview installed)
+    - In an internet browser:
+        - File > Open File; browse for index.html file
 - Refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting
 
 ### Wrapup
