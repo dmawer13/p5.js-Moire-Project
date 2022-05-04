@@ -6,8 +6,7 @@ This project involves the creation of a number of p5.js sketches that produce [m
 
 This repository contains resources to get started with this activity. Generally, we will refer to this repository to download and install necessary software, access multimedia content related to our project, and store our project files.
 
-## Stage 1: Introduction, Software Installation, and Code Commenting Activity
-### Meeting 1
+## Meeting 1: Introduction, Software Setup, and Code Commenting Activity
 
 ### Introduction
 
@@ -24,7 +23,7 @@ We'll start out by familiarizing ourselves with moire effects and random dot pat
     
 ### Code Commenting Activity
 
-- Visit 
+- Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with deictic commenting.
 
 
 
