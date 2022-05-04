@@ -10,7 +10,7 @@ This repository contains resources to get started with this activity. Generally,
 
 ### Introduction
 
-We'll start out by familiarizing ourselves with moire effects and random dot patterns by referring to the following content:
+We'll start out by familiarizing ourselves with moire effects and random dot patterns by exploring the following content:
 - [Freaky Dot Patterns - Numberphile](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
 - [Quanta Magazine Article: Moire Patterns](https://www.quantamagazine.org/when-magic-is-seen-in-twisted-graphene-thats-a-moire-20190620/) 
 
