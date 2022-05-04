@@ -12,7 +12,7 @@ This repository contains resources to get started with this activity. Generally,
 
 We'll start out by familiarizing ourselves with moire effects and random dot patterns by exploring the following content:
 - [Freaky Dot Patterns - Numberphile](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
-- [Quanta Magazine Article: Moire Patterns](https://www.quantamagazine.org/when-magic-is-seen-in-twisted-graphene-thats-a-moire-20190620/) 
+- [Quanta Magazine Article: Moire Patterns](https://www.quantamagazine.org/when-magic-is-seen-in-twisted-graphene-thats-a-moire-20190620/)
 
 ### Software Setup
 
@@ -41,8 +41,9 @@ Let's discuss the commenting activity and schedule meeting 2.
 
 How can we use p5.js to simulate dot patterns and moire effects?
 
-- Refresh of [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
+- Refresh of [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) 
 - How might we approach creating the multiple examples outlined by Dr. Tokieda?
+- How might we organize the tasks necessary to complete this project?
 
 ### Starting to sketch
 
@@ -54,5 +55,37 @@ Let's start collaboratively sketching in p5.js using deictic comments as needed.
     - Portal > Authenticate with GitHub account > Get Token
 - Refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting
 
+### Wrapup
+
+Let's debrief and schedule meeting 3.
+
+## Meeting 3: Collaboratively Sketching
+
+We'll use this meeting to continue with your p5.js sketches, referring to [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) as needed.
+
+Also refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting, as needed.
+
+### Wrapup
+
+Let's debrief and schedule meeting 4.
+
+## Meeting 4: Continuing Collaboration, Audiencing Discussion 
+
+We'll use this meeting to continue with your p5.js sketches, and discuss how we might share our work with others.
+
+How might we share our p5.js code with an interested audience?
+
+- Refer to [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) as needed.
+- Also refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting, as needed.
+
+### Wrapup
+
+Let's debrief and schedule meeting 4.
+
+## Meeting 5: Pen Plotting
+
+We'll use this meeting to discuss pen plotting.
+
+[Pen Plotting example](https://twitter.com/revdancatt/status/1359192673123500034)
 
 
