@@ -1,7 +1,9 @@
 # Comment Codebook
 Refer to this codebook for commenting your sketches.  The numbered list below contains each type of deictic comment, paired with its description.
 
-1. `// @ln10  abc... //` references line 10 (Chris' idea of "hyperlinking" referenced lines of code)
+Each example below is wrapped around comment delimiters (`//`)
+
+1. `// @ln10  abc... //` references line 10
 2. `// <-   abc... //` placed on same line as referent; references preceding statement on same line 
 3. `// ->   abc... //` placed on same line as referent; references proceeding statement on same line
 4. `// \/   abc... //` placed above referent line; references that line of code only
