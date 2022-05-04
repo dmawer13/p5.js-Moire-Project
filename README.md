@@ -41,7 +41,17 @@ Let's discuss the commenting activity and schedule meeting 2.
 How can we use p5.js to simulate dot patterns and moire effects?
 
 - Refresh of [Dr. Tokieda's examples](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
+- How might we approach creating the multiple examples outlined by Dr. Tokieda?
 
-- Download [p5.js library files](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/p5_files)
+### Starting to sketch
+
+Let's start collaboratively sketching in p5.js using deictic comments as needed.
+
+- Download the [p5.js library files](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/p5_files)
+- Open Atom
+- Start Teletype
+    - Portal > Authenticate with GitHub account > Get Token
+- Refer to the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) for commenting
+
 
 
