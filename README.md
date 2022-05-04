@@ -21,7 +21,7 @@ We'll start out by familiarizing ourselves with moire effects and random dot pat
     - File > Clone Repository
     - Select "URL" tab
     - Under "URL or username/repository" entry, enter `https://github.com/dmawer13/p5.js-Moire-Project`
-    - Under "Local Path" entry, choose a folder that will stay put for the duration of this project
+    - Under "Local Path" entry, choose a folder to store your files that will stay put for the duration of this project
 - Install [Atom editor](https://atom.io/) 
 - Install [Teletype package](https://teletype.atom.io/) in Atom:
     - Preferences > Install
@@ -33,12 +33,13 @@ To start using deictic code commenting, we'll first conduct an activity that int
 
 - Visit my [example p5.js sketch](https://editor.p5js.org/dmawer/sketches/7zXSlJxQb) with deictic comments
 - Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with using deictic comments.
-- (Below needs work -- let's make it be accomplished by: 
-    - running Teletype
-    - forking this entire GitHub
-    - 
-- Duplicate the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
-    - Task: Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
+- In Atom:
+    - Sign in to Teletype
+    - Open a Portal
+        - Packages > Teletype > Share Portal (or Join Portal)
+    - Open the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
+        - File > Open Project Folder
+            - Task: Imagine your in-code comments must serve to explain this sketch to a future reader. Review this code together, and using the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md), comment the following sketch.
     
 ### Wrapup
 
