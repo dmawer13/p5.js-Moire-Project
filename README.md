@@ -25,5 +25,6 @@ We'll start out by familiarizing ourselves with moire effects and random dot pat
 
 - Visit the [Comment Codebook](https://github.com/dmawer13/p5.js-Moire-Project/blob/main/comment_codebook.md) page for getting started with deictic commenting.
 
+- Download the files in the [vertex_spinner_sketch](https://github.com/dmawer13/p5.js-Moire-Project/tree/main/vertex_spinner_sketch) folder
 
 
