@@ -11,7 +11,8 @@ This repository contains resources to get started with this activity. Generally,
 
 ### Introduction
 
-- [Freaky Dot Patterns - Numberphile](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tokieda
+We'll start out by familiarizing ourselves with moire effects and random dot patterns using the following links:
+- [Freaky Dot Patterns - Numberphile](https://www.youtube.com/watch?v=QAja2jp1VjE&t=7s) with Dr. Tadashi Tokieda
 - [Quanta Magazine Article: Moire Patterns](https://www.quantamagazine.org/when-magic-is-seen-in-twisted-graphene-thats-a-moire-20190620/) 
 
 ### Software Setup
